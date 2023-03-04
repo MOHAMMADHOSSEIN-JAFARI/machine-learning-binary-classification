@@ -1,2 +1,2 @@
 # machine-learning-binary-classification
-This repository contains the contents of the project which I have done for the module Statistical Methods for Machine Learnining. 
+This repository contains the contents of the project which I have done for the module Statistical Methods for Machine Learnining. It includes the report of the project, a script to detect damaged images in the initial dataset, a script to produce pickle, and 16 notebooks for the 8 models. Each model has two notebooks. One training notebook and one Cross Validation notebook. 
